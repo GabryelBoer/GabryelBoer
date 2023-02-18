@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70A4FC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabryel+Boer;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryelboer&color=70A4FC" alt="Profile views" /> </p>
+
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryelboer&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelboer&layout=compact&theme=tokyonight" />
@@ -29,4 +31,4 @@
   
 </div><br/>
 
-![snake gif](https://github.com/GabryelBoer/GabryelBoer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabryelboer/gabryelboer/blob/output/github-contribution-grid-snake.svg)
