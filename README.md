@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryelboer&color=70A4FC" alt="Profile views" /> </p>
 
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryelboer&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelboer&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryelboer&show_icons=true&theme=tokyonight&count_private=true&PAT_1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryelboer&layout=compact&theme=tokyonight&PAT_1" />
 </div>
 
 <div align=center>
